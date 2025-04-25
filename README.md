@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src="https://i.imgur.com/YFpfRD2.gif" title="Sea Monster Crowdfunding" alt="Video Walkthrough" />
+<img src="https://i.imgur.com/cYyeMzE.gif" title="Sea Monster Crowdfunding" alt="Video Walkthrough" />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with imgur  
